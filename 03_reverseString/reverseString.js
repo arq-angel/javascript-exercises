@@ -14,6 +14,9 @@ const reverseString = function(word) {
 
     let newWord = newArr.join("");
 
+    console.log(newWord);
+    
+
     return newWord;
 };
 
